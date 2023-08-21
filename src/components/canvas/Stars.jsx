@@ -65,7 +65,7 @@ const StarsCanvas = () => {
     <div className="w-full h-full absolute inset-0 z-[-1]">
       <Canvas camera={{ position: [0, 0, 0.01] }}>
         <Suspense fallback={<CanvasLoader />}>
-          <CustomGeometryParticles count={5000} shape="box" />
+          <CustomGeometryParticles count={2500} shape="sphere" />
         </Suspense>
         <Preload all />
       </Canvas>

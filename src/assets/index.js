@@ -1,4 +1,6 @@
 import logo from "./logo.svg";
+import avatar from "./avatar.jpg";
+
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -42,7 +44,11 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import whatsapp from "./whatsapp.png";
+import linkedIn from "./linkedIn.png";
+
 export {
+  avatar,
   logo,
   backend,
   creator,
@@ -82,4 +88,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  whatsapp,
+  linkedIn,
 };

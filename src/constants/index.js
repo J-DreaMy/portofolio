@@ -124,7 +124,7 @@ const experiences = [
     date: "2017 - 2019",
     points: [
       "Developing and maintaining web applications using Laravel, Jquery, Vue.JS and bootstrap.",
-      "Building management item, order applications and calculating profit & expenses for client requirements who need computer or technology items",
+      "Building management item, order applications and calculating profit & expenses for client requirements who need computer or technology items.",
       "Building sales application for collect customer shop data",
       "Building todo list for internal company",
       "Building application services computer",
@@ -137,8 +137,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "2019 - 2022",
     points: [
-      "Developing Face Recognize using python, OpenCV, and tensorflow",
-      "Building smart home application with features controlling device, Intergrate with spotify, and geolocation",
+      "Developing Face Recognize using python, OpenCV, and Tensorflow",
+      "Building smart home applications with features controlling devices, intergrate with Spotify, and geolocation",
       "Developing and maintaining custom software using ExpressJs, NestJs, Vue.JS & Flutter",
     ],
   },
@@ -162,8 +162,8 @@ const experiences = [
     date: "2019 - Present",
     points: [
       "Building class scheduling using Laravel & Jquery and Genetic Algorithm for school.",
-      "Developing store building mobile application",
-      "Developing and maintaining accounting and internal application",
+      "Developing store-building mobile apps",
+      "Developing and maintaining accounting and internal apps",
     ],
   },
 ];
@@ -196,7 +196,7 @@ const projects = [
   {
     name: "Amaster",
     description:
-      "Amaster is internal program Asterindo to handle orders from ayooklik.id. The apps can increase revenue by projecting or simulation the orders first, searching items by profit, calculating shipping costs, other expenses, and tax. Save the history item, archived photos, and export reports.",
+      "Amaster is internal program Asterindo to handle orders from ayooklik.id. The apps can increase revenue by projecting or simulation the orders first, searching items by profit, calculating shipping costs, tax and other expenses. Save the history item, archived photos, and export reports.",
     tags: [
       {
         name: "laravel",
@@ -220,7 +220,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "expressJS",
+        name: "expressjs",
         color: "green-text-gradient",
       },
     ],
@@ -237,11 +237,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "vueJS",
+        name: "vuejs",
         color: "green-text-gradient",
       },
       {
-        name: "nestJS",
+        name: "nestjs",
         color: "pink-text-gradient",
       },
     ],
@@ -258,7 +258,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "expressJs",
+        name: "expressjs",
         color: "green-text-gradient",
       },
       {

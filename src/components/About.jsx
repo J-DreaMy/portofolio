@@ -33,10 +33,10 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a software developer with 5+ years experience. Have experience programing languages such Javascript, Typescript, PHP, Python, & Go. Used frameworks
-        like React, Vue, Svelte, ExpressJS, NestJS, FastAPI, Fiber & Flutter. Love to write high-quality and clean code. I'm a quick learner and collaborate
-        closely with clients to create efficient, scalable, high-performance, & user-friendly solutions that solve real-world problems. Let's work together to
-        bring your ideas to life!
+        I'm a software developer with 5+ years of experience. Have experience programming languages such as Javascript, Typescript, PHP, Python, & Go—used
+        frameworks like React, Vue, Svelte, ExpressJS, NestJS, FastAPI, Fiber & Flutter. I love to write high-quality and clean code. I'm a quick learner and
+        collaborate closely with clients to create efficient, scalable, high-performance, & user-friendly solutions that solve real-world problems. Let's work
+        together to bring your ideas to life!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
